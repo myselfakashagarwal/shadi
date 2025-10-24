@@ -4,5 +4,5 @@ services:
     volumes:
       - ./:/hackctl.github.io
     ports:
-      - 6969:80
+      - 6969:3001
     tty: true
