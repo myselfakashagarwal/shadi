@@ -1,0 +1,14 @@
+.text-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-block p {
+  font-size: 4rem;
+  font-weight: 10;
+  color: rgb(246, 248, 236);
+  text-align: center;
+  font-family: jetbrains-mono, monospace;
+}
+
